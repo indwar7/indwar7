@@ -1,6 +1,6 @@
 HI,:
 
-👋 Hi, I'm Abhaydeep Inwar, a 20-year-old aspiring data analyst passionate about turning data into actionable insights. I enjoy exploring data-driven solutions and continuously sharpening my skills in tools and techniques related to data analytics.
+👋 Hi, I'm Abhaydeep Inwar, an aspiring data analyst passionate about turning data into actionable insights. I enjoy exploring data-driven solutions and continuously sharpening my skills in tools and techniques related to data analytics.
 
 🔧 Skills: Tableau, Data Visualization, Statistical Analysis
 
