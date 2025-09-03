@@ -6,7 +6,7 @@ HI,:
 
 🌟 Currently open to work opportunities where I can contribute to meaningful projects and grow as a professional. Let's connect and collaborate!
 
-
+Looking forward to open source contributions!
 <!---
 indwar7/indwar7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
