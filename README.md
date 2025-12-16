@@ -1,27 +1,47 @@
-👋 Hi, I'm Abhaydeep Inwar
-Computer Science Engineer | App Developer | Data Enthusiast
-I'm a passionate developer who loves building impactful applications and exploring data-driven solutions. Currently working on TrackMate, a comprehensive Flutter application, while continuously expanding my expertise in software development and data analytics.
-🚀 What I Do
+👋 Hi, I’m Abhaydeep Indwar
+🏆 SIH 2025 Winner | Computer Science Engineer | Flutter App Developer | Data Enthusiast
 
-💻 Developing mobile applications with Flutter & Dart
-📊 Creating insightful visualizations with Tableau
-🔍 Analyzing data to uncover meaningful patterns and insights
-🛠️ Building full-stack solutions with modern technologies
+I’m a results-driven developer who builds real-world solutions with measurable impact. I specialize in cross-platform mobile development and data-driven problem solving, with a strong focus on scalability, performance, and user experience.
+
+I am the creator of TrackMate, a comprehensive Flutter-based application, which went on to win Smart India Hackathon (SIH) 2025—India’s largest national-level hackathon—recognizing its innovation, practical relevance, and technical execution.
+
+🚀 Key Highlights
+
+🏆 Winner – Smart India Hackathon (SIH) 2025
+
+📱 Built TrackMate from scratch using Flutter & Dart
+
+⚙️ Delivered a production-ready solution under real-world constraints
+
+🚀 Demonstrated end-to-end ownership: ideation → development → deployment
+
+💻 What I Do
+
+📱 Develop high-performance mobile applications using Flutter & Dart
+
+📊 Create data-driven dashboards & visualizations using Tableau
+
+🔍 Analyze data to extract meaningful insights
+
+🛠️ Build scalable, full-stack solutions with modern tools
 
 🔧 Tech Stack
 
 Mobile Development: Flutter, Dart
-Data Analysis: Tableau, Statistical Analysis, Data Visualization
+Data & Analytics: Tableau, Data Visualization, Statistical Analysis
 Version Control: Git, GitHub
 Tools: Android Studio, VS Code, FVM
 
 🌟 Current Focus
 
-Contributing to open source projects
-Enhancing my skills in data analytics and mobile development
-Building scalable and user-friendly applications
+🚀 Scaling and improving TrackMate post-SIH
 
-📫 Let's Connect!
-I'm always open to collaborating on interesting projects, discussing tech ideas, or exploring new opportunities. Feel free to reach out!
+🌍 Contributing to open-source projects
 
-💼 Open to Work | Ready to contribute to meaningful projects and grow as a professional
+📈 Advancing skills in data analytics & mobile architecture
+
+📫 Let’s Connect
+
+I’m passionate about building impactful products, collaborating with driven teams, and solving meaningful problems.
+
+💼 Open to Work | Actively seeking opportunities in Mobile App Development, Software Engineering, and Data Analytics
