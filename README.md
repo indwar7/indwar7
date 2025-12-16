@@ -1,5 +1,5 @@
 👋 Hi, I’m Abhaydeep Indwar
-🏆 SIH 2025 Winner | Computer Science Engineer | Flutter App Developer | Data Enthusiast
+🏆 SIH 2025 Winner | Computer Science Engineer | App Developer | Data Enthusiast
 
 I’m a results-driven developer who builds real-world solutions with measurable impact. I specialize in cross-platform mobile development and data-driven problem solving, with a strong focus on scalability, performance, and user experience.
 
