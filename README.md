@@ -1,6 +1,65 @@
-# 💫 Introduction
-👋 Hi, I’m Abhaydeep Indwar<br><br><br>🏆 SIH 2025 Winner | Computer Science Engineer | App Developer | Data Enthusiast<br><br>I’m a results-driven developer who builds real-world solutions with measurable impact. I specialize in cross-platform mobile development and data-driven problem solving, with a strong focus on scalability, performance, and user experience.<br><br>I am the creator of TrackMate, a comprehensive Flutter-based application, which went on to win Smart India Hackathon (SIH) 2025—India’s largest national-level hackathon—recognizing its innovation, practical relevance, and technical execution.<br><br>🚀 Key Highlights<br><br>🏆 Winner – Smart India Hackathon (SIH) 2025<br><br>📱 Built TrackMate from scratch using Flutter & Dart<br><br>⚙️ Delivered a production-ready solution under real-world constraints<br><br>🚀 Demonstrated end-to-end ownership: ideation → development → deployment<br><br>💻 What I Do<br><br>📱 Develop high-performance mobile applications using Flutter & Dart<br><br>📊 Create data-driven dashboards & visualizations using Tableau<br><br>🔍 Analyze data to extract meaningful insights<br><br>🛠️ Build scalable, full-stack solutions with modern tools<br><br>🔧 Tech Stack<br><br>Mobile Development: Flutter, Dart<br>Data & Analytics: Tableau, Data Visualization, Statistical Analysis<br>Version Control: Git, GitHub<br>Tools: Android Studio, VS Code, FVM<br><br>🌟 Current Focus<br><br>🚀 Scaling and improving TrackMate post-SIH<br><br>🌍 Contributing to open-source projects<br><br>📈 Advancing skills in data analytics & mobile architecture<br><br>📫 Let’s Connect<br><br>I’m passionate about building impactful products, collaborating with driven teams, and solving meaningful problems.<br><br>💼 Open to Work | Actively seeking opportunities in Mobile App Development, Software Engineering, and Data Analytics<br>
+# 
+ Hi, I’m Abhaydeep Indwar
 
+🏆 Smart India Hackathon (SIH) 2025 Winner | Computer Science Engineer | Mobile App Developer | Data & Analytics Enthusiast
+
+I’m a results-driven software developer passionate about building real-world, scalable digital solutions that create measurable impact. My core expertise lies in cross-platform mobile application development and data-driven problem solving, with a strong emphasis on performance, scalability, and intuitive user experience.
+
+I am the creator of TrackMate, a comprehensive Flutter-based application designed and developed from the ground up. The project went on to win Smart India Hackathon (SIH) 2025, India’s largest national-level hackathon—recognized for its innovation, practical relevance, and strong technical execution under real-world constraints.
+
+🚀 Key Highlights
+
+🏆 Winner – Smart India Hackathon (SIH) 2025
+
+📱 Built TrackMate end-to-end using Flutter & Dart
+
+⚙️ Delivered a production-ready solution within tight deadlines
+
+🧠 Demonstrated full ownership: ideation → development → deployment
+
+📈 Focused on scalability, usability, and real-world adoption
+
+💻 What I Do
+
+📱 Develop high-performance mobile applications using Flutter & Dart
+
+🛠️ Design and build scalable full-stack solutions
+
+📊 Create data-driven dashboards & visualizations using Tableau
+
+🔍 Analyze data to extract insights that support smarter decision-making
+
+⚡ Optimize applications for performance, maintainability, and growth
+
+🔧 Tech Stack
+
+Mobile Development: Flutter, Dart
+Data & Analytics: Tableau, Data Visualization, Statistical Analysis
+Version Control: Git, GitHub
+Tools & IDEs: Android Studio, VS Code, FVM
+
+🌟 Current Focus
+
+🚀 Scaling and enhancing TrackMate post-SIH
+
+🌍 Contributing to open-source projects
+
+📈 Deepening expertise in data analytics, mobile architecture, and system design
+
+🧠 Exploring the intersection of technology, data, and business growth
+
+📫 Let’s Connect
+
+I’m deeply passionate about building impactful products, collaborating with driven teams, and solving meaningful problems through technology.
+
+💼 Open to Work
+Actively seeking opportunities in:
+
+Mobile App Development
+
+Software Engineering
+
+Data Analytics
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhayindwar_7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-indwar7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/abhayindwar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abhayindwar3400) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ABHAYDEEP INDWAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay.indwar7@gmail.com) 
