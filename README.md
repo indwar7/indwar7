@@ -23,6 +23,7 @@ Mobile Engineering — Production Flutter and React Native apps with Provider, B
 AI / ML Engineering — On-device ML inference (TFLite, ML Kit), ARKit, diffusion-model integration (IDM-VTON), real-time body landmark tracking, GPU-accelerated image pipelines, and body segmentation.
 Backend Engineering — Go (Gin) REST services, PostgreSQL schema design, Redis caching and leaderboards, WebSocket real-time channels, JWT authentication, and FCM push delivery.
 Systems & Infrastructure — Docker, Railway deployments, Cloudflare R2, CI/CD pipelines, offline-first architectures, and atomic transaction design.
+
 Tech Stack
 Languages: Dart, Go, JavaScript, Kotlin, Java, Python, C++, SQL
 Mobile: Flutter, React Native, Android SDK, iOS (Xcode), Material Design
