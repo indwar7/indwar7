@@ -1,66 +1,48 @@
-# 
- Hi, I’m Abhaydeep Indwar
+Abhaydeep Indwar
+Software Engineer — Mobile & Full-Stack Development
 
-🏆 Smart India Hackathon (SIH) 2025 Winner | Computer Science Engineer | Mobile App Developer | Data & Analytics Enthusiast
+Smart India Hackathon 2025 National Winner (Ministry of Road Transport & Highways). I build production-grade mobile and backend systems, with a focus on cross-platform mobile engineering, scalable Go backends, and on-device ML.
 
-I’m a results-driven software developer passionate about building real-world, scalable digital solutions that create measurable impact. My core expertise lies in cross-platform mobile application development and data-driven problem solving, with a strong emphasis on performance, scalability, and intuitive user experience.
+Currently an App Developer Intern at Unfluke (Noida), shipping React Native + Redux features to production apps serving 100+ DOMs and reducing API response times by 30%.
 
-I am the creator of TrackMate, a comprehensive Flutter-based application designed and developed from the ground up. The project went on to win Smart India Hackathon (SIH) 2025, India’s largest national-level hackathon—recognized for its innovation, practical relevance, and strong technical execution under real-world constraints.
+Selected Work
+Lucy — AR Virtual Try-On Platform (Flutter, Camera2, TFLite, ML Kit, ARKit)
+Real-time AR garment try-on with on-device ML inference tracking 33 body landmarks and IDM-VTON diffusion-based virtual fitting. GPU-accelerated pipeline at 15–30 FPS with velocity-adaptive smoothing and body segmentation for realistic occlusion.
 
-🚀 Key Highlights
+TrackMate — National Mobility Analytics Platform (Flutter, Firebase, GPS, SQLite)
+SIH 2025 winning project. Led a team of 5 to ship a GPS mobility platform across 50+ cities with 2K+ users, processing 50,000+ trips daily. Offline-first architecture with adaptive GPS sampling delivered 35% battery savings and 99.9% data integrity.
 
-🏆 Winner – Smart India Hackathon (SIH) 2025
+SafaiPay — Waste Management & Rewards Platform (Flutter, Go, PostgreSQL, Redis, Docker)
+End-to-end platform with a Go (Gin) backend exposing 28 REST endpoints, PostgreSQL persistence, Redis-powered O(log N) leaderboards, and Cloudflare R2 image storage. Flutter frontend with Firebase OTP + JWT auth, RazorpayX payouts, and FCM notifications. Deployed on Railway via Docker.
 
-📱 Built TrackMate end-to-end using Flutter & Dart
+Peanut — Real-Time Commodity Trading Platform (Flutter, Firebase, WebSocket, REST)
+Live commodity trading app with WebSocket-driven price feeds and Firestore-backed order management for 500+ concurrent users and 2,000+ daily transactions. Optimized Firestore indexing and SQLite offline caching improved processing by 40%.
 
-⚙️ Delivered a production-ready solution within tight deadlines
+Core Competencies
+Mobile Engineering — Production Flutter and React Native apps with Provider, Bloc, and Redux state management; App Store and Play Store release cycles; crash analytics and OS-compatibility debugging.
+Backend Engineering — Go (Gin) REST services, PostgreSQL schema design, Redis caching and leaderboards, WebSocket real-time channels, JWT auth, FCM push delivery.
+On-Device ML & AR — TFLite inference, ML Kit, ARKit, GPU-accelerated image pipelines, diffusion-model integration.
+Systems & Infra — Docker, Railway deployments, Cloudflare R2, CI/CD, offline-first architectures, atomic transactions.
+Tech Stack
+Languages: Dart, Go, JavaScript, Kotlin, Java, Python, C++, SQL
+Mobile: Flutter, React Native, Android SDK, iOS (Xcode)
+Backend: Go (Gin), PostgreSQL, Redis, Firebase, WebSocket, JWT, FCM
+Infra & Tools: Docker, Railway, Cloudflare R2, Git, GitHub, Android Studio, Xcode
 
-🧠 Demonstrated full ownership: ideation → development → deployment
+Education
+B.Tech, Computer Science and Engineering (Data Science)
+Ajay Kumar Garg Engineering College, Ghaziabad — CGPA 8.0 / 10.0 — Aug 2023 to May 2027
 
-📈 Focused on scalability, usability, and real-world adoption
-
-💻 What I Do
-
-📱 Develop high-performance mobile applications using Flutter & Dart
-
-🛠️ Design and build scalable full-stack solutions
-
-📊 Create data-driven dashboards & visualizations using Tableau
-
-🔍 Analyze data to extract insights that support smarter decision-making
-
-⚡ Optimize applications for performance, maintainability, and growth
-
-🔧 Tech Stack
-
-Mobile Development: Flutter, Dart
-Data & Analytics: Tableau, Data Visualization, Statistical Analysis
-Version Control: Git, GitHub
-Tools & IDEs: Android Studio, VS Code, FVM
-
-🌟 Current Focus
-
-🚀 Scaling and enhancing TrackMate post-SIH
-
-🌍 Contributing to open-source projects
-
-📈 Deepening expertise in data analytics, mobile architecture, and system design
-
-🧠 Exploring the intersection of technology, data, and business growth
-
-📫 Let’s Connect
-
-I’m deeply passionate about building impactful products, collaborating with driven teams, and solving meaningful problems through technology.
-
-💼 Open to Work
-Actively seeking opportunities in:
-
-Mobile App Development
-
-Software Engineering
-
-Data Analytics
-
+Certifications
+IBM Certified — Project Management Professional
+IBM Certified — Data Science Professional
+Virtual Internships — Tata Group Software Engineering, Goldman Sachs Engineering, Accenture Technology
+Contact
+Email — abhayindwar7@gmail.com
+LinkedIn — abhayindwar7
+GitHub — indwar7
+Phone — +91-82793-43179
+Open to Software Engineering, Mobile Development, and Full-Stack Engineering roles.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhayindwar_7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-indwar7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/abhayindwar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abhayindwar3400) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ABHAYDEEP INDWAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay.indwar7@gmail.com) 
 
