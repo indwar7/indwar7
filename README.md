@@ -1,48 +1,60 @@
 Abhaydeep Indwar
-Software Engineer — Mobile & Full-Stack Development
+Software Engineer — Mobile, Full-Stack & Applied AI/ML
 
-Smart India Hackathon 2025 National Winner (Ministry of Road Transport & Highways). I build production-grade mobile and backend systems, with a focus on cross-platform mobile engineering, scalable Go backends, and on-device ML.
+Smart India Hackathon 2025 National Winner (Ministry of Road Transport & Highways). I build production-grade mobile applications, scalable backend systems, and on-device AI/ML pipelines — taking products from ideation to App Store with measurable real-world impact.
 
 Currently an App Developer Intern at Unfluke (Noida), shipping React Native + Redux features to production apps serving 100+ DOMs and reducing API response times by 30%.
 
 Selected Work
-Lucy — AR Virtual Try-On Platform (Flutter, Camera2, TFLite, ML Kit, ARKit)
-Real-time AR garment try-on with on-device ML inference tracking 33 body landmarks and IDM-VTON diffusion-based virtual fitting. GPU-accelerated pipeline at 15–30 FPS with velocity-adaptive smoothing and body segmentation for realistic occlusion.
+Lucy — AR Virtual Try-On Platform (Flutter, Camera2, TFLite, ML Kit, ARKit, IDM-VTON)
+Real-time AR garment try-on app powered by on-device ML inference tracking 33 body landmarks and AI-driven virtual fitting using diffusion models (IDM-VTON). Engineered a GPU-accelerated image processing pipeline achieving 15–30 FPS, with velocity-adaptive smoothing for jitter-free tracking and body segmentation for realistic garment occlusion.
 
 TrackMate — National Mobility Analytics Platform (Flutter, Firebase, GPS, SQLite)
-SIH 2025 winning project. Led a team of 5 to ship a GPS mobility platform across 50+ cities with 2K+ users, processing 50,000+ trips daily. Offline-first architecture with adaptive GPS sampling delivered 35% battery savings and 99.9% data integrity.
+SIH 2025 winning project. Led a team of 5 developers to ship a GPS-based mobility analytics platform across 50+ cities with 2K+ users, processing 50,000+ trips daily. Offline-first architecture with adaptive GPS sampling delivered 35% battery savings, 40% accuracy gain, and 99.9% data integrity.
 
 SafaiPay — Waste Management & Rewards Platform (Flutter, Go, PostgreSQL, Redis, Docker)
-End-to-end platform with a Go (Gin) backend exposing 28 REST endpoints, PostgreSQL persistence, Redis-powered O(log N) leaderboards, and Cloudflare R2 image storage. Flutter frontend with Firebase OTP + JWT auth, RazorpayX payouts, and FCM notifications. Deployed on Railway via Docker.
+End-to-end platform with a Go (Gin) backend exposing 28 REST endpoints, PostgreSQL persistence, Redis-powered O(log N) leaderboards, and Cloudflare R2 image storage. Flutter frontend with Firebase OTP + JWT auth, RazorpayX wallet payouts, gamified rewards (15 badges), and FCM push notifications. Deployed on Railway via Docker.
 
 Peanut — Real-Time Commodity Trading Platform (Flutter, Firebase, WebSocket, REST)
-Live commodity trading app with WebSocket-driven price feeds and Firestore-backed order management for 500+ concurrent users and 2,000+ daily transactions. Optimized Firestore indexing and SQLite offline caching improved processing by 40%.
+Live commodity trading app with WebSocket-driven real-time price feeds and Firestore-backed order management serving 500+ concurrent users and 2,000+ daily transactions. Optimized Firestore indexing and SQLite offline caching for 40% faster processing and crash-free operation.
 
 Core Competencies
-Mobile Engineering — Production Flutter and React Native apps with Provider, Bloc, and Redux state management; App Store and Play Store release cycles; crash analytics and OS-compatibility debugging.
-Backend Engineering — Go (Gin) REST services, PostgreSQL schema design, Redis caching and leaderboards, WebSocket real-time channels, JWT auth, FCM push delivery.
-On-Device ML & AR — TFLite inference, ML Kit, ARKit, GPU-accelerated image pipelines, diffusion-model integration.
-Systems & Infra — Docker, Railway deployments, Cloudflare R2, CI/CD, offline-first architectures, atomic transactions.
+Mobile Engineering — Production Flutter and React Native apps with Provider, Bloc, and Redux state management; App Store and Play Store release cycles; crash analytics, lifecycle handling, and OS-compatibility debugging.
+AI / ML Engineering — On-device ML inference (TFLite, ML Kit), ARKit, diffusion-model integration (IDM-VTON), real-time body landmark tracking, GPU-accelerated image pipelines, and body segmentation.
+Backend Engineering — Go (Gin) REST services, PostgreSQL schema design, Redis caching and leaderboards, WebSocket real-time channels, JWT authentication, and FCM push delivery.
+Systems & Infrastructure — Docker, Railway deployments, Cloudflare R2, CI/CD pipelines, offline-first architectures, and atomic transaction design.
 Tech Stack
 Languages: Dart, Go, JavaScript, Kotlin, Java, Python, C++, SQL
-Mobile: Flutter, React Native, Android SDK, iOS (Xcode)
-Backend: Go (Gin), PostgreSQL, Redis, Firebase, WebSocket, JWT, FCM
-Infra & Tools: Docker, Railway, Cloudflare R2, Git, GitHub, Android Studio, Xcode
+Mobile: Flutter, React Native, Android SDK, iOS (Xcode), Material Design
+AI / ML: TFLite, ML Kit, ARKit, Camera2 API, Diffusion Models (IDM-VTON)
+Backend: Go (Gin), PostgreSQL, Redis, Firebase, WebSocket, JWT, FCM, REST APIs
+Infra & Tools: Docker, Railway, Cloudflare R2, Git, GitHub, Android Studio, Xcode, Figma, VS Code
 
 Education
 B.Tech, Computer Science and Engineering (Data Science)
 Ajay Kumar Garg Engineering College, Ghaziabad — CGPA 8.0 / 10.0 — Aug 2023 to May 2027
 
-Certifications
-IBM Certified — Project Management Professional
-IBM Certified — Data Science Professional
-Virtual Internships — Tata Group Software Engineering, Goldman Sachs Engineering, Accenture Technology
+Certifications & Achievements
+Winner — Smart India Hackathon 2025, Ministry of Road Transport & Highways (National Level)
+Published Apps — 2+ applications on Google Play Store with production traffic
+IBM Certified — Project Management Professional · Data Science Professional
+Virtual Internships — Tata Group Software Engineering · Goldman Sachs Engineering · Accenture Technology
+
+
 Contact
+
 Email — abhayindwar7@gmail.com
+
 LinkedIn — abhayindwar7
+
 GitHub — indwar7
+
 Phone — +91-82793-43179
+
+
 Open to Software Engineering, Mobile Development, and Full-Stack Engineering roles.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhayindwar_7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhay-indwar7/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/abhayindwar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abhayindwar3400) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ABHAYDEEP INDWAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhay.indwar7@gmail.com) 
 
