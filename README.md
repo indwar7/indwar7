@@ -5,7 +5,7 @@ Smart India Hackathon 2025 National Winner (Ministry of Road Transport & Highway
 
 Currently an App Developer Intern at Unfluke (Noida), shipping React Native + Redux features to production apps serving 100+ DOMs and reducing API response times by 30%.
 
-Selected Work
+My Work-
 Lucy — AR Virtual Try-On Platform (Flutter, Camera2, TFLite, ML Kit, ARKit, IDM-VTON)
 Real-time AR garment try-on app powered by on-device ML inference tracking 33 body landmarks and AI-driven virtual fitting using diffusion models (IDM-VTON). Engineered a GPU-accelerated image processing pipeline achieving 15–30 FPS, with velocity-adaptive smoothing for jitter-free tracking and body segmentation for realistic garment occlusion.
 
