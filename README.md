@@ -5,18 +5,6 @@ Smart India Hackathon 2025 National Winner (Ministry of Road Transport & Highway
 
 Currently an App Developer Intern at Unfluke (Noida), shipping React Native + Redux features to production apps serving 100+ DOMs and reducing API response times by 30%.
 
-My Work-
-Lucy — AR Virtual Try-On Platform (Flutter, Camera2, TFLite, ML Kit, ARKit, IDM-VTON)
-Real-time AR garment try-on app powered by on-device ML inference tracking 33 body landmarks and AI-driven virtual fitting using diffusion models (IDM-VTON). Engineered a GPU-accelerated image processing pipeline achieving 15–30 FPS, with velocity-adaptive smoothing for jitter-free tracking and body segmentation for realistic garment occlusion.
-
-TrackMate — National Mobility Analytics Platform (Flutter, Firebase, GPS, SQLite)
-SIH 2025 winning project. Led a team of 5 developers to ship a GPS-based mobility analytics platform across 50+ cities with 2K+ users, processing 50,000+ trips daily. Offline-first architecture with adaptive GPS sampling delivered 35% battery savings, 40% accuracy gain, and 99.9% data integrity.
-
-SafaiPay — Waste Management & Rewards Platform (Flutter, Go, PostgreSQL, Redis, Docker)
-End-to-end platform with a Go (Gin) backend exposing 28 REST endpoints, PostgreSQL persistence, Redis-powered O(log N) leaderboards, and Cloudflare R2 image storage. Flutter frontend with Firebase OTP + JWT auth, RazorpayX wallet payouts, gamified rewards (15 badges), and FCM push notifications. Deployed on Railway via Docker.
-
-Peanut — Real-Time Commodity Trading Platform (Flutter, Firebase, WebSocket, REST)
-Live commodity trading app with WebSocket-driven real-time price feeds and Firestore-backed order management serving 500+ concurrent users and 2,000+ daily transactions. Optimized Firestore indexing and SQLite offline caching for 40% faster processing and crash-free operation.
 
 Core Competencies
 Mobile Engineering — Production Flutter and React Native apps with Provider, Bloc, and Redux state management; App Store and Play Store release cycles; crash analytics, lifecycle handling, and OS-compatibility debugging.
